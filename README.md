@@ -100,7 +100,7 @@ This dashboard helps stakeholders analyze travel expenses, monitor spending cate
 
 ## 📊 Dashboard Overview
 
-![Travel Dashboard](Executive-Summary-Client Analytics.png)
+![Travel Dashboard](Executive-Summary-Client-Analytics.png)
 
 ---
 
