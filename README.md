@@ -114,9 +114,6 @@ This dashboard helps stakeholders analyze travel expenses, monitor spending cate
 
 ![Travel Spend Trend](Spend-Analysis.png)
 
-## 📈 Monthly Travel-Spend Bifurcation
-
-![Travel Spend Trend](Travel-spend-analysis.png)
 ---
 
 ## 🔍 Key Insights
