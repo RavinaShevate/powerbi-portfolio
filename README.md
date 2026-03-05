@@ -1,70 +1,88 @@
-# Power BI Dashboard Portfolio
-### Ravina Shevate | Data Analyst | Power BI Developer
+# 📊 Power BI Portfolio – Ravina Shevate
+
+Data Analyst | Power BI Developer | SQL | DAX | Data Visualization  
 
 Welcome to my Power BI portfolio repository.  
-This repository showcases dashboards I developed to demonstrate data analysis, visualization, and business intelligence skills.
+This repository showcases dashboards I developed to analyze business data, create KPI reports, and deliver actionable insights using Power BI.
 
-Tools Used:
+---
+
+# 🛠 Tools & Technologies
+
 - Power BI
+- SQL / MySQL
 - DAX
-- SQL
+- Power Query
 - Data Modeling
 - Data Visualization
 
 ---
 
-# Sales Performance Dashboard
+# 📈 Sales Performance Dashboard
 
-## Overview
-This dashboard provides insights into sales performance including revenue trends, year-over-year growth, and KPI metrics.  
-It helps stakeholders quickly understand business performance and identify key trends.
+## Business Problem
+Businesses need clear insights into their sales performance to identify trends, compare growth across periods, and evaluate regional performance.
+
+## Tools Used
+Power BI, DAX, SQL
 
 ## Key Features
+- KPI metrics (Total Sales, Profit, Growth)
 - Sales trend analysis
 - Year-over-Year comparison
-- KPI metrics
-- Interactive visualizations
+- Interactive dashboard visuals
 
 ---
 
 ## Dashboard Overview
+
 ![Dashboard Overview](dashboard_overview.png)
 
 ---
 
 ## Sales Trend Analysis
+
 ![Sales Trend](sales_trend.png)
 
 ---
 
 ## Year-over-Year Difference
+
 ![YoY Difference](YOY-Diffrence.png)
 
 ---
 
-# Key Insights
+## Key Insights
 
-- Identified sales growth trends over time
+- Identified overall sales trends over time
 - Compared yearly sales performance
-- Highlighted key performance indicators for decision-making
+- Highlighted important KPIs for business monitoring
 
 ---
 
-# Skills Demonstrated
+# 📊 Skills Demonstrated
 
-- Data Visualization
-- KPI Dashboard Development
-- DAX Calculations
 - Business Intelligence Reporting
+- KPI Dashboard Development
+- Data Visualization
+- DAX Calculations
 - Data Analysis
 
 ---
 
-# About Me
+# 👩‍💻 About Me
 
-I am a Data Analyst and Power BI Developer with experience building business intelligence dashboards and automated reporting solutions.
+I am a **Data Analyst and Power BI Developer with 3+ years of experience** in building interactive dashboards and automated reporting solutions.
+
+I specialize in transforming complex datasets into meaningful insights using Power BI and SQL.
+
+---
+
+# 🔗 Connect With Me
 
 LinkedIn:  
-https://linkedin.com/in/ravina-shevate2008
+https://linkedin.com/in/ravina-shevate2008  
 
 Location: Pune, India
+
+---
