@@ -10,7 +10,7 @@ This repository showcases dashboards I developed to analyze business data, creat
 # 🛠 Tools & Technologies
 
 - Power BI
-- SQL / MySQL
+- SQL / MySQL / API's
 - DAX
 - Power Query
 - Data Modeling
