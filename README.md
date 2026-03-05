@@ -24,7 +24,7 @@ This repository showcases dashboards I developed to analyze business data, creat
 Businesses need clear insights into their sales performance to identify trends, compare growth across periods, and evaluate regional performance.
 
 ## Tools Used
-Power BI, DAX, SQL
+Power BI, DAX, SQL,Postman
 
 ## Key Features
 - KPI metrics (Total Sales, Profit, Growth)
