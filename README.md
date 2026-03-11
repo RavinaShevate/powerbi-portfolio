@@ -191,7 +191,7 @@ This page provides a high-level operational overview including:
 - Workflow contribution analysis  
 - Monthly and daily transaction trends  
 
-![Transaction Overview](transaction_dashboard.png)
+![Transaction Overview](POS-DASHBOARD.png)
 
 ---
 
@@ -204,7 +204,7 @@ This page focuses on **multi-year performance comparison**, including:
 - Year-over-Year transaction differences  
 - Percentage growth and decline analysis  
 
-![POS Difference Dashboard](pos_difference_dashboard.png)
+![POS Difference Dashboard](POS-DIFF.png)
 
 ---
 
