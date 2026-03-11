@@ -133,6 +133,92 @@ This dashboard helps stakeholders analyze travel expenses, monitor spending cate
 - Data Visualization
 - Business Insights Reporting
 ---
+
+
+# 📊 Transaction & POS Performance Analysis Dashboard
+
+## 🧩 Project Overview
+
+This Power BI dashboard provides a comprehensive analysis of **transaction processing and Point of Sale (POS) performance** across multiple workflows and operational regions. The solution enables business teams to monitor transaction status, track workflow efficiency, and evaluate performance trends over time.
+
+The dashboard integrates operational data to deliver insights into **transaction volumes, processing status, workflow distribution, and year-over-year performance differences**.
+
+Through interactive visualizations and KPI metrics, stakeholders can easily identify performance trends, operational bottlenecks, and growth patterns across workflows and regions.
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query (ETL)  
+- Data Modeling  
+- Data Visualization  
+
+---
+
+## ⭐ Key Dashboard Features
+
+- KPI cards showing total transactions and status distribution  
+- Transaction status monitoring (Ticketed, On Hold, Failure, Cancelled, In Progress)  
+- Workflow analysis across **End-2-End, Import PNR, and Manual Invoice** processes  
+- Country and branch-level transaction insights  
+- RM-wise operational performance tracking  
+- Interactive filters for **Year, Month, Day, Workflow, Branch, and Business**  
+- POS comparison across multiple years (2023–2026)  
+- Year-over-Year difference and percentage variance analysis  
+
+---
+
+## 📈 Key Insights
+
+- Over **1.19M transactions** were processed across operational workflows.  
+- The **End-2-End workflow** contributes the largest share of transaction volume.  
+- **Ticketed transactions dominate the processing status**, indicating strong completion rates.  
+- POS analysis shows **consistent growth from 2023 to 2025** across major workflows.  
+- A noticeable **decline in 2026 transactions** highlights potential operational or reporting changes requiring further investigation.  
+
+---
+
+## 📊 Dashboard Pages
+
+### 1️⃣ Transaction Overview
+
+This page provides a high-level operational overview including:
+
+- Transaction status distribution  
+- Country-level transaction performance  
+- Workflow contribution analysis  
+- Monthly and daily transaction trends  
+
+![Transaction Overview](transaction_dashboard.png)
+
+---
+
+### 2️⃣ POS Difference & Trend Analysis
+
+This page focuses on **multi-year performance comparison**, including:
+
+- POS transaction volume comparison (2023–2026)  
+- Workflow-level performance tracking  
+- Year-over-Year transaction differences  
+- Percentage growth and decline analysis  
+
+![POS Difference Dashboard](pos_difference_dashboard.png)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Business Intelligence Reporting  
+- Operational Data Analysis  
+- KPI Dashboard Development  
+- Time-Series Analysis  
+- Variance & Trend Analysis  
+- DAX Calculations  
+- Interactive Dashboard Design
+
+---
 # 👩‍💻 About Me
 
 I am a **Data Analyst and Power BI Developer with 3+ years of experience** in building interactive dashboards and automated reporting solutions.
