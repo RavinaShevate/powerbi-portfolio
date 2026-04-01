@@ -2,8 +2,8 @@
 
 Data Analyst | Power BI Developer | SQL | DAX | Data Visualization  
 
-Welcome to my Power BI portfolio repository.  
-This repository showcases dashboards I developed to analyze business data, create KPI reports, and deliver actionable insights using Power BI.
+Welcome to my Power BI portfolio repository.
+I’m a Data Analyst and Power BI Developer with 3+ years of experience, passionate about turning data into meaningful insights through interactive dashboards, KPI tracking, and data storytelling.
 
 ---
 
