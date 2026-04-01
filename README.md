@@ -219,6 +219,92 @@ This page focuses on **multi-year performance comparison**, including:
 - Interactive Dashboard Design
 
 ---
+
+# 📊 Department Efficiency Dashboard
+
+## 🧩 Project Overview
+
+This Power BI dashboard focuses on analyzing **department-level efficiency and workforce productivity** across the organization.
+
+It enables stakeholders to monitor operational performance, evaluate staff efficiency, and identify improvement areas through data-driven insights.
+
+The dashboard provides a comprehensive view of **transaction volumes, employee productivity, and departmental performance trends**, helping management optimize resource allocation and improve overall efficiency.
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query (ETL)  
+- Data Modeling  
+- Data Visualization  
+
+---
+
+## ⭐ Key Dashboard Features
+
+- KPI cards for:
+  - Total Transactions  
+  - Approved vs Edited Transactions  
+  - Staff Strength  
+  - Working Days  
+
+- Department-wise efficiency analysis  
+- Employee performance tracking (Top performers)  
+- Daily average productivity metrics  
+- Count per staff efficiency calculation  
+- Time-based analysis (Day-wise performance)  
+- Interactive filters for dynamic exploration  
+
+---
+
+## 📊 Key Metrics
+
+- Total Transaction Count  
+- Approved Transactions  
+- Edited Transactions  
+- Count per Staff (Efficiency Metric)  
+- Average Transactions per Day  
+- Department-wise Contribution  
+
+---
+
+## 📈 Key Insights
+
+- Identified **high-performing departments** based on efficiency metrics  
+- Highlighted **top employees contributing to productivity**  
+- Observed variations in **daily operational performance**  
+- Measured **staff efficiency using count per employee ratio**  
+- Enabled data-driven decisions for **resource optimization**  
+
+---
+
+## 📊 Dashboard Preview
+
+### 1️⃣ Department Efficiency Overview
+
+![Efficiency Dashboard](NewCenfinEfficiencydashboard.png)
+
+---
+
+### 2️⃣ Top Performer
+
+![Top Performer](TopPerformer.png)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Workforce & Productivity Analysis  
+- KPI Dashboard Development  
+- Performance Optimization Insights  
+- DAX Calculations  
+- Data Visualization  
+- Business Intelligence Reporting  
+
+---
+
 # 👩‍💻 About Me
 
 I am a **Data Analyst and Power BI Developer with 3+ years of experience** in building interactive dashboards and automated reporting solutions.
