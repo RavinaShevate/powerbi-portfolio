@@ -307,8 +307,6 @@ The dashboard provides a comprehensive view of **transaction volumes, employee p
 
 # 👩‍💻 About Me
 
-# 👩‍💻 About Me
-
 I am a **Data Analyst and Power BI Developer with 3+ years of experience** in building interactive dashboards and delivering data-driven insights.
 
 I specialize in transforming complex datasets into meaningful business solutions using **Power BI, SQL, and DAX**. My expertise lies in creating **KPI-driven reports, optimizing data models, and designing intuitive dashboards** that support strategic decision-making.
