@@ -36,22 +36,36 @@ Power BI, DAX, SQL,Postman
 
 ## Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard-sales.png)
 
 ---
 
-## Sales Trend Analysis
+## Monthly Sales Trend Analysis
 
-![Sales Trend](sales_trend.png)
+![Sales Trend](Monthly-sales.png)
 
 ---
 
 ## Year-over-Year Difference
 
-![YoY Difference](YOY-Diffrence.png)
+![YoY Difference](YoY-Sales.png)
 
 ---
+## Yearly Sales Vs Profit Difference
 
+![Yearly Sales Vs Profit](Yearly-sales.png)
+
+---
+## Air-NonAir Sales Bifurcation
+
+![Air NonAir](AirNonair-sales.png)
+
+---
+## Servicewise Sales
+
+![Servicewise Sales](Servicewise-sales.png)
+
+---
 ## Key Insights
 
 - Identified overall sales trends over time
